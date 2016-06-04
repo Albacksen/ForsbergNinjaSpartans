@@ -5,7 +5,7 @@ using UnityStandardAssets.CrossPlatformInput;
 namespace UnityStandardAssets.Characters.ThirdPerson
 {
     [RequireComponent(typeof (ThirdPersonCharacter))]
-    public class ThirdPersonUserControl : MonoBehaviour
+    public class ThirdPersonUserControlP2 : MonoBehaviour
     {
         private ThirdPersonCharacter m_Character; // A reference to the ThirdPersonCharacter on the object
         private Transform m_Cam;                  // A reference to the main camera in the scenes transform
@@ -37,7 +37,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         {
             if (!m_Jump)
             {
-                m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+                m_Jump = CrossPlatformInputManager.GetButtonDown("P2Jump");
             }
         }
 
@@ -46,8 +46,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         private void FixedUpdate()
         {
             // read inputs
-            float h = CrossPlatformInputManager.GetAxis("Horizontal");
-            float v = CrossPlatformInputManager.GetAxis("Vertical");
+            float h = CrossPlatformInputManager.GetAxis("P2Horizontal");
+            float v = CrossPlatformInputManager.GetAxis("P2Vertical");
           //  bool crouch = Input.GetKey(KeyCode.C);
 
             // calculate move direction to pass to character
@@ -63,12 +63,11 @@ namespace UnityStandardAssets.Characters.ThirdPerson
                 m_Move = v*Vector3.forward + h*Vector3.right;
             }
 #if !MOBILE_INPUT
-            // walk speed multiplier
-            //	        if (Input.GetKey(KeyCode.LeftShift)) m_Move *= 0.5f;
+			// walk speed multiplier
+//	        if (Input.GetKey(KeyCode.LeftShift)) m_Move *= 0.5f;
 #endif
 
             // pass all parameters to the character control script
-            //     m_Character.Move(m_Move, crouch, m_Jump);
             m_Character.Move(m_Move, false, m_Jump);
             m_Jump = false;
         }
