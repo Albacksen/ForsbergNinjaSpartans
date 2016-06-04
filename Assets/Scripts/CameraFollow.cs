@@ -14,6 +14,7 @@ public class CameraFollow : MonoBehaviour {
  public Vector3 Midpoint;
  public Vector3 distance;
  public float camDistance;
+ public float heightOffset;
  public float CamOffset;
  public float bounds;
  void Awake () 
@@ -80,7 +81,7 @@ public class CameraFollow : MonoBehaviour {
      MidX = (target2.position.x + target1.position.x) /2; 
      MidY = (target2.position.y + target1.position.y) /2;
      MidZ = (target2.position.z + target1.position.z) /2;
-     Midpoint = new Vector3 (MidX, MidY, MidZ);
+     Midpoint = new Vector3 (MidX, MidY+heightOffset, MidZ);
      if (target1)
      {
          Vector3 point = GetComponent<Camera>().WorldToViewportPoint(Midpoint);
