@@ -4,8 +4,7 @@ using System.Collections;
 public class GameManager : MonoBehaviour {
 
 	//[SerializeField]
-	public GameObject m_archerPrefab;
-	public Archer m_archerPrefab2;
+	public Archer archerPrefab;
 	public Player Player1;
 	public Player Player2;
 
@@ -13,14 +12,12 @@ public class GameManager : MonoBehaviour {
 	public Vector3 EnemySpawnPoint;
 	float m_EnemyRespawnCooldown = 0f;
 
-
 	// Use this for initialization
 	void Start () {
-	
 	}
 
 	void SpawnEnemy () {
-		var enemy = (Archer) Instantiate(m_archerPrefab2, EnemySpawnPoint, Quaternion.identity);
+		var enemy = (Archer) Instantiate(archerPrefab, EnemySpawnPoint, Quaternion.identity);
 		enemy.Init(Player1, Player2);
 	}
 
@@ -30,7 +27,6 @@ public class GameManager : MonoBehaviour {
 			SpawnEnemy();
 			m_EnemyRespawnCooldown = EnemyRespawnTimeInterval;
 		}
-
 
 		m_EnemyRespawnCooldown -= Time.deltaTime;
 	}

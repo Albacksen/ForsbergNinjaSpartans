@@ -12,11 +12,8 @@ public class Archer : MonoBehaviour {
 
 	public float movementSpeed;
 
-	float m_cooldown = 0f;
-
 	// Use this for initialization
 	void Start () {
-	
 	}
 
 	public void Init(Player m_player1, Player m_player2){
