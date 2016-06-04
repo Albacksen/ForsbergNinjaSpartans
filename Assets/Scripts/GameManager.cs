@@ -21,6 +21,10 @@ public class GameManager : MonoBehaviour {
 		enemy.Init(Player1, Player2);
 	}
 
+	void DeleteEnemy(Archer archer) {
+		Destroy(archer.gameObject);
+	}
+
 	// Update is called once per frame
 	void Update () {
 		if (m_EnemyRespawnCooldown < 0f){
