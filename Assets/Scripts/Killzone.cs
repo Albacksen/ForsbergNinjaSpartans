@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class WeaponCollision : MonoBehaviour {
+public class Killzone : MonoBehaviour {
 
 	public bool in_enemy = false;
 	
