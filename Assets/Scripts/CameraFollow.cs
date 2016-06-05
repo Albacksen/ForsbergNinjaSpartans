@@ -14,10 +14,12 @@ public class CameraFollow : MonoBehaviour {
  public Vector3 Midpoint;
  public Vector3 distance;
  public float camDistance;
+ public float camDistanceOverride;
  public float heightOffset;
  public float CamOffset;
  public float bounds;
- void Awake () 
+ public float boundsOverride;
+    void Awake () 
  {
      //checking if there's already a game manager
   
@@ -27,7 +29,9 @@ public class CameraFollow : MonoBehaviour {
  void Start () 
  {
      camDistance = 10.0f;
+        camDistance = camDistanceOverride;
      bounds = 12.0f;
+        bounds = boundsOverride;
  }
  
  // Update is called once per frame
