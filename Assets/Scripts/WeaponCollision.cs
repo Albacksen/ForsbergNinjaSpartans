@@ -3,24 +3,34 @@ using System.Collections;
 
 public class WeaponCollision : MonoBehaviour {
 
+	public bool in_enemy = false;
+	
+	public Archer current_collider; // Need not be public
 	// Use this for initialization
 	void Start () {
 	
 	}
-	
-	void DestroySoon(){
-		// Add code for waiting a second or issuing an animation
-		Destroy(gameObject);
+
+	public void DestroyEnemy(){ // Requires current_collider to be not null
+		if (current_collider != null){
+			Destroy(current_collider.gameObject);
+			current_collider = null;
+		}
 	}
 
-	void OnCollisionEnter(Collision collisionInfo)
+	void OnTriggerEnter(Collider collider)
 	{
-		if (collisionInfo.collider.tag == "Killzone"){
-    		print("Detected collision between " + gameObject.name + " and " + collisionInfo.collider.name);
-    		print("There are " + collisionInfo.contacts.Length + " point(s) of contacts");
-   			print("Their relative velocity is " + collisionInfo.relativeVelocity);
-   			DestroySoon();
-   		}
+		if (collider.tag == "Enemy"){
+			in_enemy = true;
+			current_collider = collider.GetComponent<Archer>();
+		}
+	}
+	void OnTriggerExit(Collider collider) // Sämst. This is NOT the correct way to do this
+	{
+		if (collider.tag == "Enemy"){
+			in_enemy = false;
+			current_collider = null;
+		}
 	}
 
 	// Update is called once per frame
