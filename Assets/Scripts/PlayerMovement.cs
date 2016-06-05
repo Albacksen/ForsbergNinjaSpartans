@@ -43,6 +43,12 @@ public class PlayerMovement : MonoBehaviour
 
         movementVector.z = Input.GetAxis("LeftJoystickY_P" + joystickString) * movementSpeed;
 
+        if (Input.GetButtonDown("B_P" + joystickString)){  // How to find the Xbox mappings?
+            Debug.Log("Schwing schwing!");
+            Player player = this.GetComponent<Player>();
+            player.Attack();
+        }
+
         if (movementVector.x !=0 || movementVector.z != 0)
         {
             Vector3 movementDir = new Vector3(movementVector.x, 0.0f, movementVector.z);
