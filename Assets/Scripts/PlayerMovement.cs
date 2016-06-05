@@ -18,12 +18,16 @@ public class PlayerMovement : MonoBehaviour
 
     public int joystickNumber;
 
+    public Animator anims;
+
     
 
 
     void Start()
 
     {
+        anims = GetComponentInChildren<Animator>();
+       // anims = GetComponent<Animator>;
 
         characterController = GetComponent<CharacterController>();
 
@@ -43,7 +47,10 @@ public class PlayerMovement : MonoBehaviour
         {
             Vector3 movementDir = new Vector3(movementVector.x, 0.0f, movementVector.z);
             transform.rotation = Quaternion.LookRotation(movementDir);
+            anims.SetBool("isRunning", true);
+            
         }
+        else anims.SetBool("isRunning", false);
 
         if (characterController.isGrounded)
 

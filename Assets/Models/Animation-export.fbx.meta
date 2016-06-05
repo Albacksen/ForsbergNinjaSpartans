@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: a616a7125bba4b847847be1b19823b4c
+timeCreated: 1465125831
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: J_chest
+    100004: J_L_ankle
+    100006: J_L_ball
+    100008: J_L_clavicle
+    100010: J_L_elbow
+    100012: J_L_fingers1
+    100014: J_L_fingers2
+    100016: J_L_fingers3
+    100018: J_L_fingers4
+    100020: J_L_knee
+    100022: J_L_shoulder
+    100024: J_L_thigh
+    100026: J_L_thumb1
+    100028: J_L_thumb2
+    100030: J_L_thumb3
+    100032: J_L_thumb_tip
+    100034: J_L_tip
+    100036: J_L_wrist
+    100038: J_R_ankle
+    100040: J_R_ball
+    100042: J_R_clavicle
+    100044: J_R_elbow
+    100046: J_R_fingers1
+    100048: J_R_fingers2
+    100050: J_R_fingers3
+    100052: J_R_fingers4
+    100054: J_R_knee
+    100056: J_R_shoulder
+    100058: J_R_thigh
+    100060: J_R_thumb1
+    100062: J_R_thumb2
+    100064: J_R_thumb3
+    100066: J_R_thumb_tip
+    100068: J_R_wrist
+    100070: J_root
+    100072: J_spine1
+    100074: J_spine2
+    100076: joint10
+    100078: joint11
+    100080: joint12
+    100082: joint25
+    100084: joint9
+    100086: pCylinder13
+    400000: //RootNode
+    400002: J_chest
+    400004: J_L_ankle
+    400006: J_L_ball
+    400008: J_L_clavicle
+    400010: J_L_elbow
+    400012: J_L_fingers1
+    400014: J_L_fingers2
+    400016: J_L_fingers3
+    400018: J_L_fingers4
+    400020: J_L_knee
+    400022: J_L_shoulder
+    400024: J_L_thigh
+    400026: J_L_thumb1
+    400028: J_L_thumb2
+    400030: J_L_thumb3
+    400032: J_L_thumb_tip
+    400034: J_L_tip
+    400036: J_L_wrist
+    400038: J_R_ankle
+    400040: J_R_ball
+    400042: J_R_clavicle
+    400044: J_R_elbow
+    400046: J_R_fingers1
+    400048: J_R_fingers2
+    400050: J_R_fingers3
+    400052: J_R_fingers4
+    400054: J_R_knee
+    400056: J_R_shoulder
+    400058: J_R_thigh
+    400060: J_R_thumb1
+    400062: J_R_thumb2
+    400064: J_R_thumb3
+    400066: J_R_thumb_tip
+    400068: J_R_wrist
+    400070: J_root
+    400072: J_spine1
+    400074: J_spine2
+    400076: joint10
+    400078: joint11
+    400080: joint12
+    400082: joint25
+    400084: joint9
+    400086: pCylinder13
+    4300000: pCylinder13
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCylinder13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

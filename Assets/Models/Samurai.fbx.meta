@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 6e0955e4f5c642d479887814aa5f3d6b
+timeCreated: 1465125831
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: J_chest
+    100002: J_L_ankle
+    100004: J_L_ball
+    100006: J_L_clavicle
+    100008: J_L_elbow
+    100010: J_L_fingers1
+    100012: J_L_fingers2
+    100014: J_L_fingers3
+    100016: J_L_fingers4
+    100018: J_L_knee
+    100020: J_L_shoulder
+    100022: J_L_thigh
+    100024: J_L_thumb1
+    100026: J_L_thumb2
+    100028: J_L_thumb3
+    100030: J_L_thumb_tip
+    100032: J_L_tip
+    100034: J_L_wrist
+    100036: J_R_ankle
+    100038: J_R_ball
+    100040: J_R_clavicle
+    100042: J_R_elbow
+    100044: J_R_fingers1
+    100046: J_R_fingers2
+    100048: J_R_fingers3
+    100050: J_R_fingers4
+    100052: J_R_knee
+    100054: J_R_shoulder
+    100056: J_R_thigh
+    100058: J_R_thumb1
+    100060: J_R_thumb2
+    100062: J_R_thumb3
+    100064: J_R_thumb_tip
+    100066: J_R_wrist
+    100068: J_root
+    100070: J_spine1
+    100072: J_spine2
+    100074: joint10
+    100076: joint11
+    100078: joint12
+    100080: joint25
+    100082: joint9
+    100084: pCube6
+    100086: pCube7
+    100088: pCube8
+    100090: pCylinder13
+    100092: polySurface1
+    100094: polySurface3
+    100096: polySurface38
+    100098: polySurface41
+    100100: polySurface7
+    100102: polySurface87
+    100104: polySurface88
+    100106: polySurface89
+    100108: polySurface91
+    100110: polySurface92
+    100112: polySurface93
+    100114: polySurface94
+    100116: //RootNode
+    100118: transform39
+    400000: J_chest
+    400002: J_L_ankle
+    400004: J_L_ball
+    400006: J_L_clavicle
+    400008: J_L_elbow
+    400010: J_L_fingers1
+    400012: J_L_fingers2
+    400014: J_L_fingers3
+    400016: J_L_fingers4
+    400018: J_L_knee
+    400020: J_L_shoulder
+    400022: J_L_thigh
+    400024: J_L_thumb1
+    400026: J_L_thumb2
+    400028: J_L_thumb3
+    400030: J_L_thumb_tip
+    400032: J_L_tip
+    400034: J_L_wrist
+    400036: J_R_ankle
+    400038: J_R_ball
+    400040: J_R_clavicle
+    400042: J_R_elbow
+    400044: J_R_fingers1
+    400046: J_R_fingers2
+    400048: J_R_fingers3
+    400050: J_R_fingers4
+    400052: J_R_knee
+    400054: J_R_shoulder
+    400056: J_R_thigh
+    400058: J_R_thumb1
+    400060: J_R_thumb2
+    400062: J_R_thumb3
+    400064: J_R_thumb_tip
+    400066: J_R_wrist
+    400068: J_root
+    400070: J_spine1
+    400072: J_spine2
+    400074: joint10
+    400076: joint11
+    400078: joint12
+    400080: joint25
+    400082: joint9
+    400084: pCube6
+    400086: pCube7
+    400088: pCube8
+    400090: pCylinder13
+    400092: polySurface1
+    400094: polySurface3
+    400096: polySurface38
+    400098: polySurface41
+    400100: polySurface7
+    400102: polySurface87
+    400104: polySurface88
+    400106: polySurface89
+    400108: polySurface91
+    400110: polySurface92
+    400112: polySurface93
+    400114: polySurface94
+    400116: //RootNode
+    400118: transform39
+    4300000: pCylinder13
+    4300002: polySurface1
+    4300004: polySurface3
+    4300006: polySurface7
+    4300008: polySurface38
+    4300010: pCube7
+    4300012: pCube8
+    4300014: polySurface89
+    4300016: polySurface91
+    4300018: polySurface87
+    4300020: polySurface92
+    4300022: polySurface93
+    4300024: polySurface94
+    4300026: pCube6
+    7400000: SamuraiAttack
+    7400002: SamuraiRun
+    7400004: SamuraiIdle
+    7400006: SpartanRun
+    7400008: SpartanAttack
+    7400010: SpartanIdle
+    9500000: //RootNode
+    13700000: pCube6
+    13700002: pCube7
+    13700004: pCube8
+    13700006: pCylinder13
+    13700008: polySurface1
+    13700010: polySurface3
+    13700012: polySurface38
+    13700014: polySurface7
+    13700016: polySurface87
+    13700018: polySurface89
+    13700020: polySurface91
+    13700022: polySurface92
+    13700024: polySurface93
+    13700026: polySurface94
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SamuraiRun
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SamuraiAttack
+      takeName: Take 001
+      firstFrame: 77
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SamuraiIdle
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpartanRun
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpartanAttack
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpartanIdle
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: J_root
+        weight: 1
+      - path: J_root/J_L_thigh
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball
+        weight: 1
+      - path: J_root/J_L_thigh/J_L_knee/J_L_ankle/J_L_ball/J_L_tip
+        weight: 1
+      - path: J_root/J_R_thigh
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball
+        weight: 1
+      - path: J_root/J_R_thigh/J_R_knee/J_R_ankle/J_R_ball/joint25
+        weight: 1
+      - path: J_root/J_spine1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_fingers1/J_L_fingers2/J_L_fingers3/J_L_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_L_clavicle/J_L_shoulder/J_L_elbow/J_L_wrist/J_L_thumb1/J_L_thumb2/J_L_thumb3/J_L_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_fingers1/J_R_fingers2/J_R_fingers3/J_R_fingers4
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/J_R_clavicle/J_R_shoulder/J_R_elbow/J_R_wrist/J_R_thumb1/J_R_thumb2/J_R_thumb3/J_R_thumb_tip
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11
+        weight: 1
+      - path: J_root/J_spine1/J_spine2/J_chest/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface38
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      - path: polySurface41/polySurface89
+        weight: 1
+      - path: polySurface41/polySurface91
+        weight: 1
+      - path: polySurface41/transform39
+        weight: 1
+      - path: polySurface87
+        weight: 1
+      - path: polySurface88
+        weight: 1
+      - path: polySurface88/polySurface92
+        weight: 1
+      - path: polySurface88/polySurface93
+        weight: 1
+      - path: polySurface88/polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
