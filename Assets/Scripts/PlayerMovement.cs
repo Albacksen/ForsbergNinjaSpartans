@@ -18,6 +18,9 @@ public class PlayerMovement : MonoBehaviour
 
     public int joystickNumber;
 
+    
+
+
     void Start()
 
     {
@@ -40,6 +43,12 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("Schwing schwing!");
             Player player = this.GetComponent<Player>();
             player.Attack();
+        }
+
+        if (movementVector.x !=0 || movementVector.z != 0)
+        {
+            Vector3 movementDir = new Vector3(movementVector.x, 0.0f, movementVector.z);
+            transform.rotation = Quaternion.LookRotation(movementDir);
         }
 
         if (characterController.isGrounded)
